@@ -1,2 +1,2 @@
 # SOA
-Semiconductor Optical Amplifier
+## Semiconductor Optical Amplifier
