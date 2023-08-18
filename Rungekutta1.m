@@ -1,5 +1,6 @@
 %%% In The Name of Allah
 %fourth order Runge-kutta finite difference solution for SOA  
+% Semiconductor Optical Amplifier (SOA)
 clc;
 clear all;
 close all;
