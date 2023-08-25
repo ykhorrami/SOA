@@ -56,7 +56,7 @@ tf(n) = t;
 end
 %% Gain Calculation
 gain = exp(Hr);                   %Gain of SOA
-phi = -0.5*alfa*Hr;               %Phase difference os SOA
+phi = -0.5*alfa*Hr;               %Phase difference of SOA
  
 Pout = (abs(pin).^2).*gain(1:n);  %Output power of SOA
 %% Plot Outputs
